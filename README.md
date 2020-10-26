@@ -68,3 +68,4 @@ CREATE TABLE user_info
     birthdate DATE
 )
 ```
+dhjegkdhfghdkhg
