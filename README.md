@@ -54,10 +54,11 @@ if there is a foreign key you cant delete the primary key
 
 # SQL Syntax
 
+### Commands: 
 
 - CREATE DATABASE <my_db>;
 - USE <my_db>
-- SP_HELP
+- SP_HELP 
 
 ```
 CREATE TABLE user_info 
@@ -66,3 +67,4 @@ CREATE TABLE user_info
     last_name VARCHAR(20), 
     birthdate DATE
 )
+```
