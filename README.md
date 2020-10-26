@@ -60,7 +60,8 @@ if there is a foreign key you cant delete the primary key
 - SP_HELP
 
 ```
-CREATE TABLE user_info (
+CREATE TABLE user_info 
+(
     first_name VARCHAR(20), 
     last_name VARCHAR(20), 
     birthdate DATE
