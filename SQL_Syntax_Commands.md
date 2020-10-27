@@ -1,7 +1,7 @@
 
 # SQL Syntax
 
-**SP_HELP '<name>'**
+**SP_HELP 'name'**
 - Shows the structure of a table
 - Example: SP_HELP sample
 
