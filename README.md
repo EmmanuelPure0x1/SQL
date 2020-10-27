@@ -44,28 +44,19 @@ primary key.
 
 **DML:**
 
-- select
-- insert
-- update
-- delete
+- select, insert, update, delete
 
 **DDL:**
 
-- Create 
-- alter
-- Drop
-- Truncate
+- Create, alter, Drop, Truncate
 
 **DCL:**
 
-- Grant
-- Revoke
+- Grant, Revoke
 
 **TCL:**
 
-- Commit
-- Rollback
-- Savepoint
+- Commit, Rollback, Savepoint
 
 ### Database Types: 
 
