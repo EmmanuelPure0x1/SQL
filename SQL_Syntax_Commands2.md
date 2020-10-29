@@ -1,6 +1,6 @@
-# SQL, Day_3
+# SQL, Day 3
 
-##Syntax 
+## Syntax 
 
 - It is good practice to start query with a FROM and SELECT * 
 
@@ -37,7 +37,7 @@ WHERE UnitPrice < 5;
 ```
 SELECT * FROM
 WHERE ProductName LIKE 'B%' OR ProductName '%S';
-
+```
 #### Using AS for new Columns
 
 ```
