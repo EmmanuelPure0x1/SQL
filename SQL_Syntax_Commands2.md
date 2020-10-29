@@ -73,8 +73,8 @@ Using DISTINCT is used to return only distinct (different) values. Which means i
 
 ### Arithmatic Operators
 
-- + (works with DATETIME Columns)
-- - (works with DATETIME Columns)
+- '+' (works with DATETIME Columns)
+- '-' (works with DATETIME Columns)
 - /
 - % (Modulo)
 
