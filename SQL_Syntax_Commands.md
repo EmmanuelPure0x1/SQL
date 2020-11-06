@@ -2,7 +2,7 @@
 
 **SP_HELP 'db/table_name'**
 - Shows the structure of a table
-- Example: SP_HELP sample
+- Example: SP_HELP <sample>
 
 **CREATE DATABASE <name>**
 - Creates a database with a specified name
@@ -14,7 +14,7 @@
 
 **USE <name>**
 - Uses specified database for some data manipulation
-- Example: USE my_db
+- Example: USE my_db;
 
 **SELECT <object> FROM <name>**
 - Selects a specific object / column / row from a specific table
@@ -30,11 +30,11 @@
 
 **UPDATE <name> SET <column> = <new value> WHERE <column> = <existing value>**
 - Updates data in a specific table based on value in a column
-- Example: UPDATE sample SET name = 'Dev' WHERE name = 'Hubert'
+- Example: UPDATE sample SET name = 'Pure0x1' WHERE name = 'Emmanuel'
 
 **DELETE FROM <name> WHERE <column> = <value>**
 - Removes a row based on a value in a column
-- Example: DELETE FROM sample WHERE name = 'Dev'
+- Example: DELETE FROM sample WHERE name = 'Emmanuel'
 
 **DROP <name>**
 - Deletes an entire table
